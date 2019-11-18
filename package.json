@@ -1,6 +1,6 @@
 {
   "name": "rentpath-cf-sentry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sentry Client for Cloudflare Workers",
   "main": "index.js",
   "repository": "https://github.com/rentpath/rentpath-cf-sentry",
@@ -10,6 +10,6 @@
     "typescript": "^3.7.2"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc --declaration"
   }
 }
