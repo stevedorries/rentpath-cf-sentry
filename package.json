@@ -1,0 +1,15 @@
+{
+  "name": "rentpath-cf-sentry",
+  "version": "1.0.0",
+  "description": "Sentry Client for Cloudflare Workers",
+  "main": "index.js",
+  "repository": "https://github.com/rentpath/rentpath-cf-sentry",
+  "author": "Colin Rymer",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
